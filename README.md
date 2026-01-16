@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm <a href="https://github.com/gerasev1992">Stepan</a> 
+<h1 align="left">Hi, I'm <a href="https://github.com/gerasev1992">Stepan</a> 
 <h3 align="left">Network engineer from Russia</h3>
 <h3 align="left">🇷🇺</h3>
 
