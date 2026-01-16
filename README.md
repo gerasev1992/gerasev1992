@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/gerasev1992">Stepan</a> 
-<h3 align="center">Network engineer from Russia</h3>
-<h3 align="center">🇷🇺</h3>
+<h1 align="left">Hi there, I'm <a href="https://github.com/gerasev1992">Stepan</a> 
+<h3 align="left">Network engineer from Russia</h3>
+<h3 align="left">🇷🇺</h3>
 
 <!--
 **gerasev1992/gerasev1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
