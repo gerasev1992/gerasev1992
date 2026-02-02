@@ -6,7 +6,11 @@
 
 
 
+
+
 ## Awards ##
+
+<img src="https://github.com/gerasev1992/icons/blob/main/gold_cup_128.png">
 
 <!--
 **gerasev1992/gerasev1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
