@@ -10,7 +10,11 @@
 
 ## Awards ##
 
-![](https://github.com/gerasev1992/icons/blob/main/gold_cup_128.png "1 место. SL. Чемпионат AtomSkills-2025")![](https://github.com/gerasev1992/icons/blob/main/gold_cup_128.png "1 место. SL. IX Дивизиональный чемпионат профессионального мастерства REASKills 2025")![](https://github.com/gerasev1992/icons/blob/main/cup_silver_128.png "2 место. SL. Чемпионат AtomSkills-2024")![](https://github.com/gerasev1992/icons/blob/main/cup_bronze_128.png "3 место. SL. VIII Дивизиональный чемпионат профессионального мастерства REASkills 2024")
+<img src="https://github.com/gerasev1992/icons/blob/main/gold_cup_128.png" width="64px" title="1 место. SL. Чемпионат AtomSkills-2025"> <img src="https://github.com/gerasev1992/icons/blob/main/gold_cup_128.png" width="64px" title="1 место. SL. IX Дивизиональный чемпионат профессионального мастерства REASKills 2025"> <img src="https://github.com/gerasev1992/icons/blob/main/cup_silver_128.png" width="65px" title="2 место. SL. Чемпионат AtomSkills-2024"> <img src="https://github.com/gerasev1992/icons/blob/main/cup_bronze_128.png" width="65px" title="3 место. SL. VIII Дивизиональный чемпионат профессионального мастерства REASkills 2024">
+
+
+
+
 
 
 
